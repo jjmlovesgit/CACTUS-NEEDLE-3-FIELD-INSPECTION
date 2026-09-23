@@ -1,0 +1,11 @@
+# Logs & Dependencies
+node_modules/
+.venv*/
+dist/
+dist-ssr/
+*.local
+
+# Backups & Temp
+*.zip
+.DS_Store
+*.log
