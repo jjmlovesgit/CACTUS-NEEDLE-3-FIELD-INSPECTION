@@ -6,6 +6,8 @@
 [![Offline Storage](https://img.shields.io/badge/Offline_Storage-IndexedDB_Native_Blobs-F59E0B?style=for-the-badge&logo=database)](https://github.com/jjmlovesgit/CACTUS-NEEDLE-3-FIELD-INSPECTION)
 [![Compliance](https://img.shields.io/badge/Compliance-ISO--9001_Audit_Trail-6366F1?style=for-the-badge)](https://github.com/jjmlovesgit/CACTUS-NEEDLE-3-FIELD-INSPECTION)
 
+![Cactus Needle 3 Field Inspection Interface](public/app_screenshot.png)
+
 **Cactus Needle 3 Field Inspection** is an industrial-grade, voice-driven machinery telemetry and inspection management application. Designed for mission-critical, air-gapped environments (power plants, refineries, manufacturing facilities, and offshore rigs), it combines **local WebAssembly neural inference**, **Google Cloud Titan USB Key hardware encryption**, **native Blob IndexedDB offline storage**, and **1-click remote database synchronization**.
 
 ---
