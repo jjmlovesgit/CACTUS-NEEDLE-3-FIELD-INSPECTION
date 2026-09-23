@@ -1,5 +1,6 @@
 # CACTUS NEEDLE 3 FIELD INSPECTION & TELEMETRY
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![Air-Gapped WASM](https://img.shields.io/badge/AI_Engine-Needle_3_WASM-06B6D4?style=for-the-badge&logo=webassembly)](https://github.com/jjmlovesgit/CACTUS-NEEDLE-3-FIELD-INSPECTION)
 [![Hardware Security](https://img.shields.io/badge/Hardware_Key-Google_Titan_AES--256--GCM-10B981?style=for-the-badge&logo=google)](https://github.com/jjmlovesgit/CACTUS-NEEDLE-3-FIELD-INSPECTION)
 [![Offline Storage](https://img.shields.io/badge/Offline_Storage-IndexedDB_Native_Blobs-F59E0B?style=for-the-badge&logo=database)](https://github.com/jjmlovesgit/CACTUS-NEEDLE-3-FIELD-INSPECTION)
@@ -111,6 +112,23 @@ flowchart TD
 
 ---
 
+## 📚 Citation & Acknowledgements
+
+Needle is built by the **Cactus Compute team** ([https://github.com/cactus-compute/needle](https://github.com/cactus-compute/needle)). If you use it in your work, please cite:
+
+```bibtex
+@misc{needle3_2026,
+  title        = {Needle: Automation Foundation Model for Tiny Devices},
+  author       = {Ndubuaku, Henry and Mosoyan, Karen and Mroz, Jakub and Cylich, Noah and
+                  Kumar, Satyajit and Sandhu, Parkirat and Shemet, Roman and Lee, Justin H.},
+  year         = {2026},
+  organization = {Cactus Compute, Inc.},
+  howpublished = {\url{https://github.com/cactus-compute/needle}}
+}
+```
+
+---
+
 ## 📄 License
 
-Internal Industrial Inspection Software — Cactus Compute Telemetry Suite.
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
